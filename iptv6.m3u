@@ -54,7 +54,7 @@ http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 #EXTINF:-1 tvg-id="常熟民生经济" tvg-name="常熟民生经济" tvg-logo="https://raw.githubusercontent.com/llm2323/zby/main/logo/常熟民生经济.png" group-title="苏州",常熟民生经济
 http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711793524/ei/FJEHZp2WOobB_9EP9KCv0Ag/ip/20.161.47.81/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qs7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2mZzK86NJGB22S7zq_N_bE7NdjNMofACfv3O0maigg/vprv/1/playlist_type/DVR/mh/kQ/mm/44/mn/sn-p5qs7nzk/ms/lva/mv/u/mvi/1/pl/19/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711771374/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgL7gQzCw_DgrU8wa0lrSv4o0ass4LS5AdcD0zd3Zrz58CIQCR64yRnUvo2LEhYyyfdx7XD3oRf4ms4ddIqqDUUYL10w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgRxhaQy9x5Wx8nREBBaHVOsJ7Ayhu4h6DJ4z2axeWYRQCIQDbW-QHF0D8U8g6M9UCNESYGqPdNLDG32XNwW8GpBUhmQ%3D%3D/playlist/index.m3u8
+http://php.17186.eu.org/phtv/fhzw.m3u
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
